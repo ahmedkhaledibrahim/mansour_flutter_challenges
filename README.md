@@ -4,7 +4,7 @@ implementing simple register/login UI desing
 
 ## Challenge :
 
-![alt text](blob:https://web.whatsapp.com/9375bf0b-5bc2-4c82-8b3b-0639e5d87127g)
+![challenge](https://web.whatsapp.com/9375bf0b-5bc2-4c82-8b3b-0639e5d87127g)
 
 For help getting started with Flutter, view our
 [online documentation](https://flutter.dev/docs), which offers tutorials,
